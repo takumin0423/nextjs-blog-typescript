@@ -6,7 +6,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 const name = "Takumi Igusa";
-export const siteTitle = "Next.js SAMple Website";
+export const siteTitle = "サンプルブログ";
 
 export default function Layout({
   children,
